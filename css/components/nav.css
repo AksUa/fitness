@@ -1,0 +1,15 @@
+.nav {
+  display: flex;
+  justify-content: flex-end;
+}
+.nav-item {
+  padding: 0 25px;
+  text-transform: uppercase;
+  letter-spacing: 0.97px;
+}
+.nav-link {
+  color: #ffffff;
+}
+.nav-link:hover {
+  color: #fed136;
+}
